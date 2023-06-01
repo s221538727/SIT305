@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task 9.1P</string>
+    <string name="show_all_lost_amp_found"><![CDATA[Show all lost & Found Items]]></string>
+    <string name="create_a_new_advert">Create a New Advert</string>
+    <string name="post_type">Post Type:</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="description">Description:</string>
+    <string name="date">Date:</string>
+    <string name="location">Location:</string>
+    <string name="save">Save</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="show_on_map">Show On Map</string>
+    <string name="title_activity_show_on_maps">ShowOnMaps</string>
+    <string name="google_maps_key">AIzaSyAk8BPQlKN0RMuY7SZqwDi6TzyRN5Rg3Lo</string>
+    <string name="get_current_location">Get Current Location</string>
+
+</resources>
